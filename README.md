@@ -71,7 +71,8 @@ Solved GFG: <problem title> today
 
 ## 📈 Progress
 
-Check the [commit history](../../commits/main) to follow the daily progress.
+<!--PROGRESS_START-->
+<!--PROGRESS_END-->
 
 ---
 
