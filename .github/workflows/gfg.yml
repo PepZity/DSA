@@ -1,0 +1,47 @@
+name: Daily GFG push
+on:
+  schedule:
+    - cron: "0 16 * * *"   # 9:30 PM IST every day
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "How many solutions to push"
+        default: "1"
+permissions:
+  contents: write
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/checkout@v4
+        with:
+          repository: PepZity/gfg-queue
+          token: ${{ secrets.QUEUE_TOKEN }}
+          path: gfg-src
+
+      - name: Copy next solutions
+        shell: bash
+        run: |
+          COUNT=${{ github.event.inputs.count || 1 }}
+          mkdir -p GFG
+          n=0
+          last=""
+          while IFS= read -r f; do
+            name=$(basename "$f")
+            if [ ! -f "GFG/$name" ]; then
+              cp "$f" GFG/
+              n=$((n+1))
+              last="${name%.py}"
+              if [ "$n" -ge "$COUNT" ]; then break; fi
+            fi
+          done < <(find gfg-src -maxdepth 1 -name '*.py' | sort -V)
+          if [ "$n" -eq 0 ]; then echo "All done"; exit 0; fi
+          if [ "$n" -eq 1 ]; then msg="Solved GFG: $last today"; else msg="Solved $n GFG questions today"; fi
+          git config user.name "PepZity"
+          git config user.email "356571377+PepZity@users.noreply.github.com"
+          git add GFG
+          git commit -m "$msg"
+          git pull --rebase
+          git push
