@@ -1,83 +1,110 @@
-# 📚 DSA — 1 Year Challenge
+<div align="center">
 
-A year-long journey of learning **Data Structures & Algorithms** one problem at a time. One solution goes up every day, and the goal is to build real problem-solving skills, not just a streak.
+# Hey, I'm Pep 👋
 
-![Python](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white)
-![Platforms](https://img.shields.io/badge/Platforms-LeetCode%20%7C%20GeeksforGeeks-success)
-![Updates](https://img.shields.io/badge/Updates-Daily-blue)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=2nd-year+B.Tech+Student;Frontend+Developer;Backend+Learner;Solving+DSA+one+problem+a+day" alt="Typing animation" />
 
----
+I enjoy building for the web, solving problems, and understanding how computers work, from software all the way down to hardware.
 
-## 🎯 Goal
+[![Followers](https://img.shields.io/github/followers/PepZity?label=Followers&style=for-the-badge&logo=github)](https://github.com/PepZity)
 
-- Get strong at DSA and pattern recognition
-- Practice writing clean, readable solutions
-- Stay consistent: one problem a day for a full year
-- Build a habit that carries into interviews and real projects
+</div>
 
 ---
 
-## 📁 Repository Structure
+## 🚀 About Me
 
-```
-DSA/
-├── Leetcode/   → LeetCode solutions, named by question number (e.g. 226.py)
-├── GFG/        → GeeksforGeeks solutions, named by problem title
-└── README.md
-```
-
-| Platform | Folder | Language | Status |
-|----------|--------|----------|--------|
-| LeetCode | [`Leetcode/`](./Leetcode) | Python | 🟢 In progress |
-| GeeksforGeeks | [`GFG/`](./GFG) | Python | 🟢 In progress |
+- 🎓 2nd-year B.Tech student
+- 💻 Comfortable with **HTML, CSS, and JavaScript**
+- 🌱 Learning **Backend Development** with **Node.js and Express**
+- 🐍 Using **Python** for problem-solving and DSA practice
+- 🧠 Practicing Data Structures & Algorithms on **LeetCode** and **GeeksforGeeks**
+- 🏗️ Exploring **Nand2Tetris** to learn how computers work from the ground up
+- 📚 Studying **Design and Analysis of Algorithms**
+- 🎯 Working toward becoming a stronger, more well-rounded developer
 
 ---
 
-## 🧠 Topics Covered
+## 🔥 Current Challenge: 1 Year of DSA
 
-- [x] Arrays & Strings
-- [x] Hashing
-- [x] Two Pointers & Sliding Window
-- [x] Linked Lists
-- [x] Stacks & Queues
-- [x] Recursion & Backtracking
-- [x] Binary Search
-- [x] Trees & Graphs
-- [x] Dynamic Programming (e.g. Knapsack)
-- [x] Greedy Algorithms
-- [x] Sorting & Searching
-- [x] Math & Bit Manipulation
+One problem a day, published automatically to GitHub.
+
+| Platform | Folder | Language |
+|----------|--------|----------|
+| LeetCode | [`Leetcode/`](https://github.com/PepZity/DSA/tree/main/Leetcode) | Python |
+| GeeksforGeeks | [`GFG/`](https://github.com/PepZity/DSA/tree/main/GFG) | Python |
+
+👉 **[Follow the challenge: PepZity/DSA](https://github.com/PepZity/DSA)**
 
 ---
 
-## ⚙️ How This Repo Updates
+## 🛠️ Tech Stack
 
-Solutions are published automatically, one per day, with a scheduled **GitHub Actions** workflow. Each commit follows this format:
+**Languages**
 
-```
-Solved question <number> today
-Solved GFG: <problem title> today
-```
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
+**Currently Learning**
 
-## 🛠️ Tech
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-- **Language:** Python 3
-- **Platforms:** LeetCode, GeeksforGeeks
-- **Automation:** GitHub Actions
+**Tools & Platforms**
 
----
-
-## 📈 Progress
-
-<!--PROGRESS_START-->
-| Platform | Progress | Done |
-|---|---|---|
-| LeetCode | `░░░░░░░░░░░░░░░░░░░░` | 1 / 96 (1%) |
-| GeeksforGeeks | `░░░░░░░░░░░░░░░░░░░░` | 1 / 299 (0%) |
-<!--PROGRESS_END-->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-⭐ If you find this useful, feel free to star the repo and follow along!
+## 📈 What I'm Working On
+
+- 🔧 Building a stronger foundation in backend development
+- 🧩 Practicing DSA consistently with Python
+- 💾 Learning computer architecture and systems through Nand2Tetris
+- ⏱️ Understanding algorithm design, analysis, and complexity
+- 🏗️ Creating projects to apply what I learn
+
+## 💡 Areas of Interest
+
+- Full-Stack Web Development
+- Data Structures & Algorithms
+- Computer Science Fundamentals
+- Software Engineering
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PepZity&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PepZity&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PepZity&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PepZity/PepZity/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PepZity/PepZity/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/PepZity/PepZity/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-PepZity-181717?style=for-the-badge&logo=github)](https://github.com/PepZity)
