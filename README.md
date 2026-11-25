@@ -74,8 +74,8 @@ Solved GFG: <problem title> today
 <!--PROGRESS_START-->
 | Platform | Progress | Done |
 |---|---|---|
-| LeetCode | `██░░░░░░░░░░░░░░░░░░` | 11 / 96 (11%) |
-| GeeksforGeeks | `░░░░░░░░░░░░░░░░░░░░` | 11 / 299 (3%) |
+| LeetCode | `██░░░░░░░░░░░░░░░░░░` | 12 / 96 (12%) |
+| GeeksforGeeks | `░░░░░░░░░░░░░░░░░░░░` | 12 / 299 (4%) |
 <!--PROGRESS_END-->
 
 ---
